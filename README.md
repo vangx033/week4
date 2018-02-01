@@ -23,5 +23,5 @@ udevadm monitor
 
 #Change directory back to home and display a closing statement
 cd
-echo "Good bye and have a nice day
+echo "Good bye and have a nice day."
 
